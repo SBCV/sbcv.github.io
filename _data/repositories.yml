@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sbcv
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sbcv/SatelliteSurfaceReconstruction
+  - sbcv/Blender-Addon-Photogrammetry-Importer
+  - fferflo/semantic-meshes
