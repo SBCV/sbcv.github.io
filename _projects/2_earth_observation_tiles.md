@@ -2,7 +2,7 @@
 layout: page
 title: Earth Observation Tiles
 description: 
-img: assets/img/dar_0a4c40_overview_category.jpg
+img: assets/img/segmentation/dar_0a4c40_overview_category.jpg
 importance: 1
 category:
 ---
