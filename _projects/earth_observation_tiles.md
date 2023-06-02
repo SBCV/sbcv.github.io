@@ -55,8 +55,8 @@ category:
 
 <div align="middle">
   <figure class="figure">
-      <a href=""> <img src="/assets/img/header/eot_paper_thumb_cropped.png"/> </a>
-      <figcaption> <a href=""> Paper </a></figcaption>
+      <a href="http://arxiv.org/abs/2306.00823"> <img src="/assets/img/header/eot_paper_thumb_cropped.png"/> </a>
+      <figcaption> <a href="http://arxiv.org/abs/2306.00823"> Paper </a></figcaption>
   </figure>
   <figure class="figure">
       <a href="https://github.com/SBCV/EarthObservationTiles"> <img src="/assets/img/header/github.png"/> </a>
