@@ -1,8 +1,0 @@
-github_users:
-  - sbcv
-
-github_repos:
-  - sbcv/SatelliteSurfaceReconstruction
-  - sbcv/EarthObservationTiles
-  - sbcv/Blender-Addon-Photogrammetry-Importer
-  - fferflo/semantic-meshes
